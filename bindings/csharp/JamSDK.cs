@@ -48,6 +48,11 @@ public class JamSDK {
         return ConvertToString((System.IntPtr)get_connection_host());
     }
 
+    unsafe public static string DisplayName()
+    {
+        return ConvertToString((System.IntPtr)get_display_name());
+    }
+
     unsafe public static int PlayerIdx()
     {
         return Int32.Parse(
