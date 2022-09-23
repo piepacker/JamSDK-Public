@@ -15,7 +15,7 @@ Unity library (bindings) are under `bindings/csharp`, include in your `Assets` f
 
 Prebuilt native plugin / shared library builds (which are necessary to use the library/bindings) for Windows (Unity Player / Editor or Desktop builds) and Android are under `prebuilt`. Put these DLL files in your `Assets/Plugins/` folder.
 
-#### Settings
+#### Settings for Android target
 Enable IL2CPP to be able to use native plugins. 
 
 `Edit -> Project Settings -> Other Settings`
