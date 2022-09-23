@@ -28,7 +28,7 @@ Enable IL2CPP to be able to use native plugins.
 
 ![image](https://user-images.githubusercontent.com/16667416/191871355-a84f6d81-8382-484f-917c-17e5f5612006.png)
 
-Disable all graphics APIs except OpenGLES3
+Disable all graphics APIs except for OpenGLES3.
 
 `Edit -> Project Settings -> Other Settings`
 
