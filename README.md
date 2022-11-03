@@ -34,3 +34,10 @@ Disable all graphics APIs except for OpenGLES3.
 
 ![image](https://user-images.githubusercontent.com/16667416/191871257-60ac191b-d322-4651-adfe-43f7219b54f1.png)
 
+Enable "Allow 'unsafe' code" in Player Settings.
+
+`Edit -> Project Settings -> Player`
+
+![image](https://user-images.githubusercontent.com/16667416/199634818-a7558b7a-812a-43e7-9274-ced0d6eef402.png)
+
+
