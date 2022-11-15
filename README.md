@@ -40,4 +40,13 @@ Enable "Allow 'unsafe' code" in Player Settings.
 
 ![image](https://user-images.githubusercontent.com/16667416/199634818-a7558b7a-812a-43e7-9274-ced0d6eef402.png)
 
+Working texture compression and render settings.
+
+![image](https://user-images.githubusercontent.com/16667416/202042875-5f81dbe4-a877-41b9-a4e0-6bdcacf1926a.png)
+![image](https://user-images.githubusercontent.com/16667416/202043068-8f1182cb-f8ca-4246-9ba7-ee673ed47fd5.png)
+![image](https://user-images.githubusercontent.com/16667416/202043183-c76b80ab-8b80-413d-97dd-56d99a115bef.png)
+
+Working color formats for Render Textures.
+
+![image](https://user-images.githubusercontent.com/16667416/202043291-c029235c-022c-4882-8d12-d314769da493.png)
 
