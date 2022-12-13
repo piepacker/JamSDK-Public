@@ -12,8 +12,10 @@ public class JamSDK {
     [DllImport("jam_sdk")]
     private unsafe static extern char* get_connection_host();
 
+    /* Commented out because it is no longer implemented serverside
     [DllImport("jam_sdk")]
     private unsafe static extern char* get_display_name();
+    */
 
     [DllImport("jam_sdk")]
     private unsafe static extern char* get_player_idx();
@@ -48,10 +50,12 @@ public class JamSDK {
         return ConvertToString((System.IntPtr)get_connection_host());
     }
 
+    /* Commented out because it is no longer implemented serverside
     unsafe public static string DisplayName()
     {
         return ConvertToString((System.IntPtr)get_display_name());
     }
+    */
 
     unsafe public static int PlayerIdx()
     {
